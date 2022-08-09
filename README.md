@@ -13,3 +13,12 @@ q7 = verona
 q8 = chewbacca  
 q9 = filo  
 q10 = pier  
+
+## Features
+Feedback to answers. Specify correct answers and points.
+
+## Testing
+
+
+## Deployment
+This project was deployed using Code Institute's mock terminal for Heroku.

@@ -88,5 +88,5 @@ else:
     print('Incorrect!')
 
 
-print('You correctly answered ' +  str(score)  + ' questions ')
-print('You incorrectly answered ' + str((score/10) * 100) + '%.')
+print('You correctly answered ' + str(score) + ' questions ')
+print('You correctly answered ' + str((score/10) * 100) + '%.')
